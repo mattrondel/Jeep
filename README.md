@@ -1,4 +1,4 @@
-# Jeep
+Jeep
 
 Wheels
 Lift
