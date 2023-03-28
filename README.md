@@ -1,9 +1,1 @@
-Jeep
-
-Wheels
-
-Lift
-
-Tires
-
-Radio
+Jeep upgrade notes
