@@ -1,6 +1,6 @@
 Jeep upgrade notes
 
-
+WAGNER 658 bulb for shifter
 
 what was done in the past
 resurfaced exhaust manifold (was recommended)
